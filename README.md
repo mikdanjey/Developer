@@ -1,6 +1,4 @@
-# Developer
-Developer Tools
-
+# Developer Tools
 
 npm install -g npm-check-updates
 ncu -u
