@@ -22,7 +22,7 @@ function App() {
         <Routes>
           <Route
             index
-            path={''}
+            path={'/'}
             element={<LandingPage title={"Home"} />}
           />
 
@@ -42,7 +42,7 @@ function App() {
           >
 
             <Route
-              path={'string'}
+              path={'/string'}
               element={
                 <StringOperationPage title="String" />
               }
