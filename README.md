@@ -2,14 +2,7 @@
 
 https://mikdanjey.github.io/Developer
 
-npm install -g npm-check-updates
-ncu -u
-yarn install
 
-yarn test:ci
+## Deployment history
+https://github.com/mikdanjey/Developer/deployments
 
-yarn test:coverage
-
-yarn test:jest
-
-yarn test:jest --updateSnapshot
